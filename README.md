@@ -104,18 +104,6 @@ This project highlights how genre influences both the frequency and popularity o
 
 ---
 
-## 📂 Project Structure
-
-```
-netflix-data-analysis/
-│
-├── netflix_data_analysis.ipynb
-├── dataset.csv
-└── README.md
-```
-
----
-
 ## 👨‍💻 Authors
 - **Mohammad Alkama** – BCA (DS & AI), 2nd Year  
 - **Anuj Jaiswal** – BCA (DS & AI), 2nd Year 
