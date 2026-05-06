@@ -105,6 +105,5 @@ This project highlights how genre influences both the frequency and popularity o
 ---
 
 ## Authors
-- **Mohammad Alkama** – BCA (DS & AI), 2nd Year  
-- **Anuj Jaiswal** – BCA (DS & AI), 2nd Year 
+- **Mohammad Alkama** – BCA (DS & AI), 2nd Year  
  
